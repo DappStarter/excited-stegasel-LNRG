@@ -1,0 +1,19 @@
+{
+    "name": "avax_decentology_tutorial",
+    "blocks": {
+        "/blockchain/avalanche": true,
+        "/blockchain/avalanche/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "482",
+        "/category/asset_value_tracking/core-token/symbol": "482",
+        "/category/asset_value_tracking/core-token/decimals": "5",
+        "/category/asset_value_tracking/core-token/supply": "482",
+        "/category/nft/core-custom_nft": true,
+        "/category/nft/core-custom_nft/template": "collectible",
+        "/category/collection/core-entity": true
+    }
+}
